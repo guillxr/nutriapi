@@ -79,7 +79,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 ## 📞 Contato
 
 **Seu Nome**  
-- LinkedIn: [devgustavo.io](https://www.linkedin.com/in/devgustavo-io/)  
+- LinkedIn: [devgustavo-io](https://www.linkedin.com/in/devgustavo-io/)  
 - Email: [devgustavo.io@gmail.com](mailto:devgustavo.io@gmail.com)  
 
 ✨ **Dúvidas?** Abra uma [issue](https://github.com/guillxr/nutriapi/issues) no GitHub!
