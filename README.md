@@ -67,7 +67,6 @@ Transforma os dados originais da TACO (disponíveis apenas em PDF/Excel) em uma 
   "proteins": 0.3,
   "fats": 0.2,
   "fiber": 2.4,
-  "details": "/foods/1"
 }
 ```
 
