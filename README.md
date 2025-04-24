@@ -16,25 +16,25 @@ Transforma os dados originais da TACO (disponíveis apenas em PDF/Excel) em uma 
 
 | Método | Endpoint                     | Descrição                          |
 |--------|------------------------------|-----------------------------------|
-| GET  | /foods                     | Lista todos os alimentos (com paginação) |
-| GET  | /foods/:id                 | Busca alimento por ID             |
-| GET  | /foods/search?q={nome}     | Busca por nome (ex: `?q=arroz`)   |
+| GET  | /food                     | Lista todos os alimentos (com paginação) |
+| GET  | /food/:id                 | Busca alimento por ID             |
+| GET  | /food/search?q={nome}     | Busca por nome (ex: `?q=arroz`)   |
 
 ### Exemplos de Requisições
 
 1. **Listar alimentos (paginação):**
    ```bash
-   GET /foods?offset=0&limit=10
+   GET /food?offset=0&limit=10
     ```
 
 2. **Buscar alimento específico:**
    ```bash
-   GET /foods/25
+   GET /food/25
     ```
 
 3. **Buscar por nome:**
    ```bash
-    GET /foods/search?q=maçã
+    GET /food/search?q=maçã
    ```
 
 ### 🛠️ Instalação
